@@ -1,0 +1,15 @@
+1- install anaconda : https://www.anaconda.com/download/ 
+
+2- install python 3.10 : https://www.python.org/downloads/release/python-3100/
+
+3- install PyCharm Community edition: https://www.jetbrains.com/pycharm/
+
+4-download all files in one folder 
+
+5-install required libraries : command pip install library name
+  ex : pip install opencv-python 
+	 pip install numpy 
+
+6- make virtual enviroment
+
+7- run the source code on PyCharm
